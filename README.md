@@ -23,13 +23,12 @@
 
 #### 🚀 开源项目
 
-[![Code-Audit-Agents](https://github-readme-stats.vercel.app/api/pin/?username=wj-wyt&repo=code-audit-agents&theme=tokyonight)](https://github.com/wj-wyt/code-audit-agents)
+**[Code-Audit-Agents](https://github.com/wj-wyt/code-audit-agents)** — 基于 Claude Code 的多 Agent 自动化代码安全审计框架
 
-> 基于 Claude Code 的多 Agent 自动化代码安全审计框架，覆盖 9 种语言、5 大框架，内置 0day 级审计方法论。
-
-#### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=wj-wyt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wj-wyt&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+- 覆盖 9 种语言（Java / Python / Go / PHP / JS / C/C++ / C# / Ruby / Rust）
+- 5 大框架专项审计（Spring / Django / Express / Laravel / Gin）
+- 内置 0day 级审计方法论，多 Agent 状态机驱动
+- 防护层感知 + 置信度分级，宁可漏报不误报
 
 ---
 
